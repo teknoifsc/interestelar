@@ -5,6 +5,10 @@ Kraxx arrancou os planetas de suas órbitas, deixando o Sistema Solar à beira d
 Cada planeta recuperado custa vidas, e combustível. Mas na última guerra, quando o Sol for libertado, Atlas não enfrentará apenas um exército... Ele enfrentará o próprio KRAXX.
 O destino do Sistema Solar não depende do tempo... Depende de você. 
 
+## Personagens:
+Herói: Atlas.
+Vilão: Kraxx, e seus criados, aliens. 
+
 
 ## Universo:
 Em um jogo de progressão lateral, o herói avança em linha reta por cenários espaciais enfrentando aliens e desviando de obstáculos como meteoritos.
