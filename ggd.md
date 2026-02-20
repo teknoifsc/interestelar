@@ -21,6 +21,13 @@
 - Ficção
   
 ## Mecânicas principais do jogo (resumo):
+- Progressão Lateral (Side-Scrolling)
+- O jogador controla Atlas avançando sempre para frente em cenários espaciais.
+- Movimento horizontal constante com possibilidade de:
+Pular
+Desviar
+Atacar
+O foco é sobrevivência e reflexo rápido.
 
 ## Plataformas-alvos:
 
